@@ -1,4 +1,4 @@
-![let's get colorful!](https://raw.githubusercontent.com/nate-thegrate/hueman/7971f1d1713c73376cd22b67e613f44b61d93285/.github/get-colorful.gif)
+[<img src="https://raw.githubusercontent.com/nate-thegrate/hueman/7971f1d1713c73376cd22b67e613f44b61d93285/.github/get-colorful.gif" alt="let's get colorful!" width="75%" />](https://hue-man.app)
 
 ### [ʜᴜᴇman.app](https://hue-man.app)
 
@@ -6,13 +6,17 @@ Learn the science behind colors!
 
 (source is available at [github.com/nate-thegrate/hueman](https://github.com/nate-thegrate/hueman))
 
-<br><br><br>
+<br>
 
 ‎
 
-<br><br><br>
+<br>
 
-![cheap • sustainable • healthy](https://raw.githubusercontent.com/nate-thegrate/vegan-chef/06a28b9ec52549f6e3f14663fee4a49029cd6893/main-logo.png)
+‎
+
+<br>
+
+[![cheap • sustainable • healthy](https://raw.githubusercontent.com/nate-thegrate/vegan-chef/06a28b9ec52549f6e3f14663fee4a49029cd6893/main-logo.png)](https://recipes.nate-thegrate.com)
 
 ### [recipes.nate-thegrate.com](https://recipes.nate-thegrate.com)
 
@@ -22,9 +26,17 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 (source is available at [github.com/nate-thegrate/vegan-chef](https://github.com/nate-thegrate/vegan-chef))
 
-<div style="height: 200px"></div>
+<br>
 
-![pile of dice](./pile-of-dice.jpg)
+‎
+
+<br>
+
+‎
+
+<br>
+
+[<img src="./pile-of-dice.jpg" alt="pile of dice" width="50%" />](https://rpg.nate-thegrate.com)
 
 ### [rpg.nate-thegrate.com](https://rpg.nate-thegrate.com)
 
@@ -32,9 +44,17 @@ Want to be a D&D power-gamer? Generate stats and get a strong character build in
 
 (source is available at [github.com/nate-thegrate/character_quickgen](https://github.com/nate-thegrate/character_quickgen))
 
-<br><br><br><br><br><br>
+<br>
 
-![Dart & Flutter](./flutter-dart-logos.png)
+‎
+
+<br>
+
+‎
+
+<br>
+
+[![Flutter & Dart](./flutter-dart-logos.png)](https://flutter.dev)
 
 Make an app for any screen: [flutter.dev](https://flutter.dev)
 
