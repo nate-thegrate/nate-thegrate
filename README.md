@@ -10,11 +10,23 @@ Learn the science behind colors!
 
 ![cheap • sustainable • healthy](https://raw.githubusercontent.com/nate-thegrate/vegan-chef/06a28b9ec52549f6e3f14663fee4a49029cd6893/main-logo.png)
 
-### [recipes.nate-thegrate.com](https://recipes.nate-thegrate.com/)
+### [recipes.nate-thegrate.com](https://recipes.nate-thegrate.com)
 
 Dinner for less than $5, and breakfast for less than $1. Everything is sugar-free and 100% plant-based.
 
 *this website is a work-in-progress: ~40 recipes total, ~20 recipes with full price & nutrition data*
+
+(source is available at [github.com/nate-thegrate/vegan-chef](https://github.com/nate-thegrate/vegan-chef))
+
+<br><br><br>
+
+![pile of dice](./pile-of-dice.jpg)
+
+### [rpg.nate-thegrate.com](https://rpg.nate-thegrate.com)
+
+Want to be a D&D power-gamer? Generate stats and get a strong character build in an instant!
+
+(source is available at [github.com/nate-thegrate/character_quickgen](https://github.com/nate-thegrate/character_quickgen))
 
 <br><br><br>
 
@@ -25,6 +37,7 @@ Make an app for any screen: [flutter.dev](https://flutter.dev)
 Cross-platform game development: [flutter.dev/games](https://flutter.dev/games)
 
 Learn the dart language: [dart.dev/language](https://dart.dev/language)
+
 <br>
 
 Flutter is free and open-source: anyone can contribute!
