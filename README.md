@@ -2,7 +2,9 @@
 
 ### [ʜᴜᴇman.app](https://hue-man.app)
 
-Learn the science behind colors! Source is available at [github.com/nate-thegrate/hueman](https://github.com/nate-thegrate/hueman)
+Learn the science behind colors!
+
+(source is available at [github.com/nate-thegrate/hueman](https://github.com/nate-thegrate/hueman))
 
 <br><br><br>
 
@@ -10,17 +12,13 @@ Learn the science behind colors! Source is available at [github.com/nate-thegrat
 
 ### [recipes.nate-thegrate.com](https://recipes.nate-thegrate.com/)
 
-Dinner for less than $5, and breakfast for less than $1.
-
-And all of it's sugar-free and 100% plant-based.
+Dinner for less than $5, and breakfast for less than $1. Everything is sugar-free and 100% plant-based.
 
 *this website is a work-in-progress: ~40 recipes total, ~20 recipes with full price & nutrition data*
 
 <br><br><br>
 
 ![Dart & Flutter](./flutter-dart-logos.png)
-
-The Flutter SDK is my life; the Dart language is my one true love.
 
 - make an app for any screen: [flutter.dev](https://flutter.dev)
 - cross-platform game development: [flutter.dev/games](https://flutter.dev/games)
