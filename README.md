@@ -4,7 +4,7 @@
 
 Learn the science behind colors!
 
-(source is available at [github.com/nate-thegrate/hueman](https://github.com/nate-thegrate/hueman))
+(source: [**ʜᴜᴇ**man on GitHub](https://github.com/nate-thegrate/hueman))
 
 <br>
 
@@ -24,7 +24,7 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 *this website is a work-in-progress: ~40 recipes total, ~20 recipes with full price & nutrition data*
 
-(source is available at [github.com/nate-thegrate/vegan-chef](https://github.com/nate-thegrate/vegan-chef))
+(source: [vegan-chef on GitHub](https://github.com/nate-thegrate/vegan-chef))
 
 <br>
 
@@ -40,9 +40,9 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 ### [rpg.nate-thegrate.com](https://rpg.nate-thegrate.com)
 
-Want to be a D&D power-gamer? Generate stats and get a strong character build in an instant!
+Want to be a D&D power-gamer? Generate stats and instantly get a strong character build!
 
-(source is available at [github.com/nate-thegrate/character_quickgen](https://github.com/nate-thegrate/character_quickgen))
+(source: [character_quickgen on GitHub](https://github.com/nate-thegrate/character_quickgen))
 
 <br>
 
@@ -64,7 +64,7 @@ Learn the dart language: [dart.dev/language](https://dart.dev/language)
 
 <br>
 
-Flutter is free and open-source: anyone can contribute!
+Flutter is free and open-source: anyone can contribute! ([Flutter on GitHub](https://github.com/flutter/flutter))
 
 ### my Flutter contributions
 
