@@ -20,14 +20,16 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 ![Dart & Flutter](./flutter-dart-logos.png)
 
-- make an app for any screen: [flutter.dev](https://flutter.dev)
-- cross-platform game development: [flutter.dev/games](https://flutter.dev/games)
-- learn about the dart language: [dart.dev/language](https://dart.dev/language)
+Make an app for any screen: [flutter.dev](https://flutter.dev)
+
+Cross-platform game development: [flutter.dev/games](https://flutter.dev/games)
+
+Learn the dart language: [dart.dev/language](https://dart.dev/language)
 
 Flutter is free & open-source; anyone can contribute!
 
-### My contributions
+### my Flutter contributions
 
-- added features [#143488](https://github.com/flutter/flutter/issues/143488), [#143664](https://github.com/flutter/flutter/issues/143664)
+- new features [#143488](https://github.com/flutter/flutter/issues/143488), [#143664](https://github.com/flutter/flutter/issues/143664)
 - bug-fixing [#87061](https://github.com/flutter/flutter/issues/87061)
 - refactoring [#136139](https://github.com/flutter/flutter/issues/136139), [#143803](https://github.com/flutter/flutter/issues/143803), [#144156](https://github.com/flutter/flutter/issues/144156)
