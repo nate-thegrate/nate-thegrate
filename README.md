@@ -16,7 +16,7 @@ Learn the science behind colors!
 
 <br>
 
-[![cheap • sustainable • healthy](https://raw.githubusercontent.com/nate-thegrate/vegan-chef/06a28b9ec52549f6e3f14663fee4a49029cd6893/main-logo.png)](https://recipes.nate-thegrate.com)
+[![cheap • sustainable • healthy](./recipe-slogan.png)](https://recipes.nate-thegrate.com)
 
 ### [recipes.nate-thegrate.com](https://recipes.nate-thegrate.com)
 
