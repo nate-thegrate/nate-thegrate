@@ -54,7 +54,7 @@ Want to be a D&D power-gamer? Generate stats and get a strong character build in
 
 <br>
 
-[![Flutter & Dart](./flutter-dart-logos.png)](https://flutter.dev)
+[<img src="./flutter-dart-logos.png" alt="Flutter & Dart" width="75%" />](https://flutter.dev)
 
 Make an app for any screen: [flutter.dev](https://flutter.dev)
 
