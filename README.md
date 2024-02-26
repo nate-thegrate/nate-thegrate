@@ -6,7 +6,7 @@ Learn the science behind colors!
 
 (source is available at [github.com/nate-thegrate/hueman](https://github.com/nate-thegrate/hueman))
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ![cheap • sustainable • healthy](https://raw.githubusercontent.com/nate-thegrate/vegan-chef/06a28b9ec52549f6e3f14663fee4a49029cd6893/main-logo.png)
 
@@ -18,7 +18,7 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 (source is available at [github.com/nate-thegrate/vegan-chef](https://github.com/nate-thegrate/vegan-chef))
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ![pile of dice](./pile-of-dice.jpg)
 
@@ -28,7 +28,7 @@ Want to be a D&D power-gamer? Generate stats and get a strong character build in
 
 (source is available at [github.com/nate-thegrate/character_quickgen](https://github.com/nate-thegrate/character_quickgen))
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ![Dart & Flutter](./flutter-dart-logos.png)
 
