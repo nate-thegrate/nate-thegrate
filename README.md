@@ -22,7 +22,7 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 (source is available at [github.com/nate-thegrate/vegan-chef](https://github.com/nate-thegrate/vegan-chef))
 
-<br><br><br><br><br><br>
+<div style="height: 200px"></div>
 
 ![pile of dice](./pile-of-dice.jpg)
 
