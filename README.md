@@ -25,8 +25,9 @@ Make an app for any screen: [flutter.dev](https://flutter.dev)
 Cross-platform game development: [flutter.dev/games](https://flutter.dev/games)
 
 Learn the dart language: [dart.dev/language](https://dart.dev/language)
+<br>
 
-Flutter is free & open-source; anyone can contribute!
+Flutter is free and open-source: anyone can contribute!
 
 ### my Flutter contributions
 
