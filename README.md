@@ -42,7 +42,7 @@ Dinner for less than $5, and breakfast for less than $1. Everything is sugar-fre
 
 Want to be a D&D power-gamer? Generate stats and instantly get a strong character build!
 
-(source: [character_quickgen on GitHub](https://github.com/nate-thegrate/character_quickgen))
+(source: [rpg-character-tool on GitHub](https://github.com/nate-thegrate/rpg-character-tool))
 
 <br>
 
