@@ -4,7 +4,7 @@
 
 Learn the science behind colors!
 
-(source: [**ʜᴜᴇ**man on GitHub](https://github.com/nate-thegrate/hueman))
+(source: [ʜᴜᴇman on GitHub](https://github.com/nate-thegrate/hueman))
 
 <br>
 
